@@ -1,0 +1,2 @@
+,mode,device,time_elapsed,best_epoch,best_acc
+0,resnet_5k_best.pth,Tesla T4,965.1275401115417,29,0.9670000672340393
