@@ -1,2 +1,0 @@
-,mode,device,time_elapsed,best_epoch,best_acc
-0,vgg_5k_best.pth,Tesla T4,2133.30246758461,24,0.9640000462532043
