@@ -1,0 +1,2 @@
+,model,device,time_elapsed,best_epoch,best_acc
+0,vgg16_5k_best.pth,NVIDIA GeForce RTX 4060 Laptop GPU,3407.822555541992,24,0.9653
