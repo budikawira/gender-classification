@@ -69,3 +69,6 @@ cd gender-classification</code></pre>
   <li><strong>Evaluation</strong> – Stores training and evaluation logs, including metrics and performance summaries.</li>
   <li><strong>Models</strong> – Saves the best model states (weights) for each CNN architecture trained.</li>
 </ul>
+
+<h2>📝 License</h2>
+<p>This project is for educational and research purposes only.</p>
